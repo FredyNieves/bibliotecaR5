@@ -19,7 +19,7 @@ import lombok.NoArgsConstructor;
 
 /**
  *
- * @author unPandicornio
+ * @author Fredy Nieves
  */
 @Data
 @AllArgsConstructor

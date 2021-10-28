@@ -12,7 +12,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 /**
  *
- * @author unPandicornio
+ * @author Fredy Nieves
  */
 
 @Data

@@ -7,7 +7,7 @@ package com.rentacubiculo.biblioteca.app.entities;
 
 /**
  *
- * @author unPandicornio
+ * @author Fredy Nieves
  */
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import java.io.Serializable;

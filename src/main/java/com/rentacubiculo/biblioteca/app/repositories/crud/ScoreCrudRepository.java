@@ -11,7 +11,7 @@ import org.springframework.data.repository.CrudRepository;
 
 /**
  *
- * @author unPandicornio
+ * @author Fredy Nieves
  */
 public interface ScoreCrudRepository extends CrudRepository<Score,Integer> {
     

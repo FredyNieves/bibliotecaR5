@@ -7,7 +7,7 @@ package com.rentacubiculo.biblioteca.app.services;
 
 /**
  *
- * @author unPandicornio
+ * @author Fredy Nieves
  */
 import com.rentacubiculo.biblioteca.app.entities.Message;
 import com.rentacubiculo.biblioteca.app.repositories.MessageRepository;

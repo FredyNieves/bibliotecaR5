@@ -10,7 +10,7 @@ import org.springframework.data.repository.CrudRepository;
 
 /**
  *
- * @author unPandicornio
+ * @author Fredy Nieves
  */
 public interface AdminCrudRepository extends CrudRepository<Admin,Integer> {
     

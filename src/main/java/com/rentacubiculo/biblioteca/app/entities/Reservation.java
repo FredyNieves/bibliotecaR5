@@ -25,7 +25,7 @@ import javax.persistence.Temporal;
 
 /**
  *
- * @author unPandicornio
+ * @author Fredy Nieves
  */
 
 

@@ -14,7 +14,7 @@ import org.springframework.data.repository.CrudRepository;
 
 /**
  *
- * @author unPandicornio
+ * @author Fredy Nieves
  */
 public interface ReservationCrudRepository extends CrudRepository<Reservation,Integer> {
     
